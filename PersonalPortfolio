@@ -1,12 +1,9 @@
-Here’s the **updated GitHub description** of your **portfolio website** with **deployment info** included:
+🔗 Portfolio Website
 
----
+A responsive personal portfolio website** built using **HTML, CSS, JavaScript, and Bootstrap, designed to showcase my projects, skills, resume, 
+certifications, and contact information. It provides a modern, clean, and mobile-friendly user interface with smooth navigation and animation effects.
 
-### 🔗 Portfolio Website
-
-A **responsive personal portfolio website** built using **HTML, CSS, JavaScript, and Bootstrap**, designed to showcase my projects, skills, resume, certifications, and contact information. It provides a modern, clean, and mobile-friendly user interface with smooth navigation and animation effects.
-
-#### 💡 Features:
+💡 Features:
 
 * Responsive design compatible with all screen sizes
 * Projects section with live demo and GitHub links
@@ -14,7 +11,7 @@ A **responsive personal portfolio website** built using **HTML, CSS, JavaScript,
 * Animated scroll and section transitions
 * Contact form with input validation
 
-#### 🚀 Technologies Used:
+🚀 Technologies Used:
 
 * HTML5, CSS3, JavaScript
 * Bootstrap 5
